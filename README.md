@@ -35,7 +35,7 @@ and without asking the user for anything**.
   "examples": [
     {
       "id": "stable-slug",
-      "label": "short label for the picker",
+      "domain": "Research",
       "recorded": "YYYY-MM-DD",
       "task": "the question both options answer",
       "option_A": "first candidate",
@@ -47,6 +47,12 @@ and without asking the user for anything**.
   ]
 }
 ```
+
+`domain` is the one category field: it is what a user picks by ("I have a research question, show me
+one of those"), so it has to read like a kind of question, not like an internal label. Keep the set
+small and stable, and keep them user-facing: `Research`, `Work & career`, `Personal life`,
+`Relationships` (extend only when there is a real example behind a new one). The app walks the list
+in order, so extra entries in the same domain simply come up as the user keeps clicking.
 
 `betterOption` is exactly `option_A` or `option_B` — the same form the model contract uses.
 `confidence` is the string the run reported, one decimal.

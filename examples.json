@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "updated": "2026-09-15",
-  "note": "FORMAT SAMPLE ONLY. The canvas app loads this file at runtime; its contents will be replaced by real recorded Decider runs. Keep every entry a real recorded run and keep internal fields (model names, channels, costs) out.",
+  "note": "FORMAT SAMPLE ONLY — the single entry below is a placeholder, not a recorded run. Real recorded Decider runs will replace it. Keep every entry a real recorded run, keep internal fields (model names, channels, costs) out, and keep the domain set small and user-facing.",
   "examples": [
     {
-      "id": "sample-launch-price",
-      "label": "Pricing",
+      "id": "sample-not-a-real-run",
+      "domain": "Business",
       "recorded": "2026-09-15",
       "task": "We must pick one launch plan for a paid AI bot.",
       "option_A": "Launch at $0.50 per decision with a 50% first-month offer, so the list price stays credible.",
