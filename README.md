@@ -57,6 +57,17 @@ in order, so extra entries in the same domain simply come up as the user keeps c
 `betterOption` is exactly `option_A` or `option_B` — the same form the model contract uses.
 `confidence` is the string the run reported, one decimal.
 
+## License
+
+The contents of this repository — the example data and this README — are licensed under
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
+See [LICENSE](LICENSE).
+
+Attribution: **TuringCorp** — <https://api.turingcorp.net/>
+
+A content licence rather than a software one: this repository carries product examples, not code.
+Anyone may reuse them, including commercially, as long as they credit TuringCorp.
+
 ## Updating
 
 ```bash
