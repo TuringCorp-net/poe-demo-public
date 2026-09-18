@@ -4,6 +4,8 @@ Data for the **Decider** canvas app on Poe. One file, served over a CDN, so the 
 worked examples **without sending a message, without charging anyone and without a redeploy**.
 
 - **Canvas app**: <https://poe.com/TuringCorp-Decider>
+- **What Decider is, what it costs and how it is measured**: <https://api.turingcorp.net/platform/poe>
+- **For agents**: <https://api.turingcorp.net/platform/poe.md> (plain Markdown) · <https://api.turingcorp.net/platform/llms.txt>
 - **Loaded by the app as**: `https://cdn.jsdelivr.net/gh/TuringCorp-net/poe-demo-public@main/examples.json`
 
 ## Why this repo exists
