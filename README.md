@@ -6,6 +6,7 @@ worked examples **without sending a message, without charging anyone and without
 - **Canvas app**: <https://poe.com/TuringCorp-Decider>
 - **What Decider is, what it costs and how it is measured**: <https://api.turingcorp.net/platform/poe>
 - **For agents**: <https://api.turingcorp.net/platform/poe.md> (plain Markdown) · <https://api.turingcorp.net/platform/llms.txt>
+- **Launch kit / how the product is described**: <https://github.com/TuringCorp-net/turingcorp-poe-showcase>
 - **Loaded by the app as**: `https://cdn.jsdelivr.net/gh/TuringCorp-net/poe-demo-public@main/examples.json`
 
 ## Why this repo exists
